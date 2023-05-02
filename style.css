@@ -1,0 +1,44 @@
+/* *{
+    margin:0;
+    padding: 0;
+    
+}  */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.letraChica {
+    text-size-adjust: .8rem;
+
+}
+
+div .logo {
+    display: flex;
+    justify-content: end;
+}
+
+/* letra de menu */
+.letra {
+    margin-left: .10rem;
+    display: flex;
+    justify-content: left;
+
+}
+
+.letraCarrusel {
+    color: rgb(255, 255, 255);
+
+}
+
+/* 
+
+@media only screen and (max-width:675px){
+.oradores{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+} */
