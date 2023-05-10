@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: yellow;
 }
 
 .letraChica {
@@ -27,7 +28,6 @@ div .logo {
     justify-content: left;
 
 }
-
 
 /* 
 
